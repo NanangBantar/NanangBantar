@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NanangBantar
 
-Portofolio Project \n
+Portofolio Project
+
 https://test-kerja4-frontend-new-1.vercel.app/
 
 <!---
